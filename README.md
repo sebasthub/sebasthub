@@ -1,15 +1,8 @@
 ### Hi there, I'm Sebastião Nogueira Software Programmer .😎🎮💻
 
-<a href="https://talesmm14.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-<a href="https://www.instagram.com/talesmelquiades/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
-<a href="https://www.youtube.com/channel/UCXQeoAqIjh2TC4S1aVnnN7g"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
-<a href="https://www.twitch.tv/talesmelquiades"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/talesmelquiades/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="http://lattes.cnpq.br/9751162321747450"><img src="https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&logo=GitBook&logoColor=white"></img></a>
-
 #### GitHub Stats: :bar_chart:
 <a href="https://github.com/sebasthub/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=talesmm14&count_private=true&show_icons=true&theme=react" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sebasthub&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/sebasthub/github-readme-stats">
   <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seabasthub&theme=react&layout=compact&hide=javascript,html,jupyter%20notebook,css&count_private=true" />
