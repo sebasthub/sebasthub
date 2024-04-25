@@ -5,7 +5,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sebasthub&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/sebasthub/github-readme-stats">
-  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasthub&theme=react&layout=compact&hide=html,jupyter%20notebook,css&count_private=true" />
+  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasthub&theme=react&layout=compact&hide=javascripthtml,jupyter%20notebook,css&count_private=true" />
 </a>
 
 
